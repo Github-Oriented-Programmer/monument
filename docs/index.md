@@ -17,5 +17,5 @@
 ## 联想TB-X605F（m10）
 *******
 ## 杂项
-<a href="https://space.bilibili.com/244110415/favlist?fid=1450549015&ftype=create" target="_blank">视频教程</a>
+<a href="https://space.bilibili.com/244110415/channel/seriesdetail?sid=1908093" target="_blank">视频教程</a>
 <a href="https://www.bilibili.com/read/cv11823901" target="_blank">利用9008刷写/备份单分区</a>
