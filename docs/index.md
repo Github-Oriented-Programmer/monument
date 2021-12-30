@@ -1,25 +1,21 @@
 # 欢迎来到闪电科技档案处
- just a monument
- 
-** 前排说明：闪电科技已经于2021年7月停止存在，这里只是档案处 **
+ just a monument  
+ 前排说明：闪电科技已经于2021年7月停止存在，这里只是档案处  
 *******
 ## 工具
-   <a href="http://bj.download.cycore.cn/edc/2021/06/17/22/265bccaa03-23b4-47c6-8ff6-6269b0b066c3.zip?filename=Rescue_and_Smart_Assistant_v5.6.0.15_signed_setup.zip" target="_blank">LMSA</a>
-   
+   <a href="http://bj.download.cycore.cn/edc/2021/06/17/22/265bccaa03-23b4-47c6-8ff6-6269b0b066c3.zip?filename=Rescue_and_Smart_Assistant_v5.6.0.15_signed_setup.zip" target="_blank">LMSA</a>    
    <a href="http://bj.download.cycore.cn/edc/2021/06/19/22/01cbec29d9-94c3-4a2f-ad26-211df140da43.zip?filename=QPST%E5%8F%8Atwrp9008%E5%8C%85.zip" target="_blank">QPST(内含TB4单刷TWRP包)</a>
 *******
 ## 联想TB-8X04F
-   <a href="https://pan.baidu.com/s/1XcPE2jDyrev7o_YrNykknw" target="_blank">EDU原始系统（9008）提取码k21t</a>
-   
+   <a href="https://pan.baidu.com/s/1XcPE2jDyrev7o_YrNykknw" target="_blank">EDU原始系统（9008）提取码k21t</a>   
    <a href="https://www.bilibili.com/read/cv11884083" target="_blank">联想TB-8X4Fmac地址备份与修改</a>
 *******
-## 希沃SD02（授课宝）
+## 希沃SD02（授课宝）  
 *******
-## 联想TB3-850F
+## 联想TB3-850F  
 *******
-## 联想TB-X605F（m10）
+## 联想TB-X605F（m10） 
 *******
 ## 杂项
-<a href="https://space.bilibili.com/244110415/channel/seriesdetail?sid=1908093" target="_blank">视频教程</a>
-
+<a href="https://space.bilibili.com/244110415/channel/seriesdetail?sid=1908093" target="_blank">视频教程</a>  
 <a href="https://www.bilibili.com/read/cv11823901" target="_blank">利用9008刷写/备份单分区</a>
