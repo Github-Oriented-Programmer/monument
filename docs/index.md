@@ -19,7 +19,7 @@
 
 *******
 ## 联想TB3-850F  
-  <a href="https://pan.baidu.com/s/1kn5C5U9gOkfXOloybi45qw" target="_blank">提取码: sduk</a>
+  <a href="https://pan.baidu.com/s/1kn5C5U9gOkfXOloybi45qw" target="_blank">原始系统 提取码: sduk</a>
   
 *******
 ## 杂项
